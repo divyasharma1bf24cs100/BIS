@@ -1,6 +1,6 @@
 
 import random
-
+# Symptoms: Fever, Cough, Headache
 patient = [1, 1, 0]
 
 population = [
